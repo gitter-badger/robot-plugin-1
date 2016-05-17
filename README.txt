@@ -19,3 +19,5 @@ test reports for Hudson.
 
 See http://wiki.jenkins-ci.org/display/JENKINS/Robot+Framework+Plugin
 for more information.
+
+Join the chat at https://gitter.im/izzekil/robot-plugin
